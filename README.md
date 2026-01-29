@@ -30,6 +30,9 @@ This project explores how **fingerprint-based techniques** can be used to effici
 1. Clone this repository:
    ```bash
    git clone https://github.com/Dhanuvarsha9802/tandem-repeat-detection-fingerprints.git
+cd tandem-repeat-detection-fingerprints
+python src/fingerprint_tr.py
+
 
 
 ## Project Structure
