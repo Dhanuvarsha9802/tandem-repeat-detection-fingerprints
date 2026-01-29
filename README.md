@@ -24,4 +24,12 @@ This project explores how **fingerprint-based techniques** can be used to effici
 
 ---
 
+---
+
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Dhanuvarsha9802/tandem-repeat-detection-fingerprints.git
+
+
 ## Project Structure
